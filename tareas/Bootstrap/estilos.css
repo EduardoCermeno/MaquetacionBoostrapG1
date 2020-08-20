@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(243, 243, 243);
+}
+
+#navegador {
+    background: rgb(204, 37, 8);
+
+}
+#aler{
+
+    text-align:center;
+}
+#pad  li a{
+padding: 15px;
+font-size: 20px;
+color: white;
+
+}
